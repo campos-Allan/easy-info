@@ -8,7 +8,3 @@ Basically asking the user for all the input once and then selecting all the corr
 
 ## Approach
 A rudimentary and somewhat old piece of work I created to help extract about 300 "chunks" of data from images, which are spatially scrambled within the images. At the time, I couldn't find a faster way to perform this process. This information had to be selected and transferred to about 10 different spreadsheets, so manually typing it into each one was quite tedious. The automation started by typing the information just once, and then the program formats it for all the different spreadsheets in the correct way for each one. After a while, I made an update since some of the information started being made available in a spreadsheet, speeding up the process of typing everything manually at least once.
-
-## Results
-It worked for the intended purpose, the best solution in a rudimentary context.
-
