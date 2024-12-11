@@ -1,7 +1,7 @@
 # easy-info
 
 ## Disclaimer
-It’s not possible to share the files and info's that this script was using it, and I scrambled the variable names and other stuff to make it anonymous, might made some mistakes in this step.
+It’s not possible to share the files and info's that this script was using it, and I scrambled the variable names and other stuff to make it anonymous, might made some mistakes in this step. This code in specific got really scrambled after this process.
 
 ## Structure
 <img src="https://i.imgur.com/wrYSBBl.png">
